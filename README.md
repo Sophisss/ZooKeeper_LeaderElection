@@ -3,8 +3,6 @@ A simple distributed system that implements a **leader election algorithm** usin
 
 This project demonstrates how processes can coordinate automatically to elect a leader and handle failover using **ephemeral sequential znodes** and **watchers**.
 
-> 📄 The full technical report is available [here](./Distributed_Systems.pdf)
-
 ## Technologies
 | Tool             | Description                                                  |
 | ---------------- | ------------------------------------------------------------ |
